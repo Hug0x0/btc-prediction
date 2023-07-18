@@ -1,12 +1,12 @@
 # btc-prediction
 
-script de prédiction du cours du bitcoin à partir de https://www.kaggle.com/mczielinski/bitcoin-historical-data.
+bitcoin price prediction script from https://www.kaggle.com/mczielinski/bitcoin-historical-data.
 
-Nous devons:
- - Récupérer le cours du Bitcoin sous forme de data,
- - Réaliser une régression linéaire sur les données (en choisissant les paramètres / variables)
- - Appliquer la régression pour prédire le cours de la cryptomonnaie à échéance d'une semaine (J+7)
- - Tracer la courbe d'historique ainsi que la courbe de prédiction
+We had :
+ - Retrieve the Bitcoin price in the form of data,
+ - Perform linear regression on the data (implementing the parameters/variables)
+ - Apply the regression to predict the price of the cryptocurrency at maturity of one week (D+7)
+ - Plot the history curve as well as the prediction curve
 
 Installation
 
